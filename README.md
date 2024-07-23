@@ -1,8 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hi there! I'm Kajari Sadhya, a passionate learner and aspiring Data Scientist currently studying in a Data Science bootcamp.  
-I am  passionate about exploring the intersection of data, technology, and business to derive meaningful insights and solve complex problems.
+Hi there! I'm Kajari Sadhya, a passionate learner and aspiring Data Scientist who has recently completed a Data Science Bootcamp. I am excited about exploring the intersection of data, technology, and business to derive meaningful insights and solve complex problems.
 
  ## 🔭 Currently Working On
  Enhancing my skills in Python programming, data manipulation, and data visualization.
